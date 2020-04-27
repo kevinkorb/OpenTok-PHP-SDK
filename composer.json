@@ -1,5 +1,5 @@
 {
-    "name": "opentok/opentok",
+    "name": "kevinkorb/opentok",
     "description": "OpenTok is a platform for creating real time streaming video applications, created by TokBox.",
     "type": "library",
     "keywords": [
@@ -10,7 +10,7 @@
         "video",
         "streaming"
     ],
-    "homepage": "https://github.com/opentok/Opentok-PHP-SDK",
+    "homepage": "https://github.com/kevinkorb/Opentok-PHP-SDK",
     "license": "MIT",
     "authors": [
         {
@@ -20,12 +20,12 @@
         },
         {
             "name": "Community contributors",
-            "homepage": "https://github.com/opentok/Opentok-PHP-SDK/graphs/contributors"
+            "homepage": "https://github.com/kevinkorb/Opentok-PHP-SDK/graphs/contributors"
         }
     ],
     "support": {
         "email": "support@tokbox.com",
-        "issues": "https://github.com/opentok/Opentok-PHP-SDK/issues"
+        "issues": "https://github.com/kevinkorb/Opentok-PHP-SDK/issues"
     },
     "require": {
         "php": ">=5.6.0",
